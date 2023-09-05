@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![KakaoTalk_20230905_125252478](https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/77515b2f-adfb-4058-be52-207881d5483b)
+![리드미 이미지](https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/a3b58cbd-b855-45b1-a333-2c919d51f5ca)
  
     
 </div>
@@ -31,7 +31,7 @@
 
 ### 서비스 아키텍처
 
-
+![KakaoTalk_20230904_012621558](https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/6b598086-2cc4-413e-8a94-6f7d5173c58e)
 
 ---
 
