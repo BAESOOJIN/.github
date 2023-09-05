@@ -29,9 +29,12 @@
 
 ---
 
+## 아키텍처
 ### 서비스 아키텍처
 
 ![KakaoTalk_20230904_012621558](https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/6b598086-2cc4-413e-8a94-6f7d5173c58e)
+<img width="1761" alt="KakaoTalk_20230906_004948188" src="https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/117909a0-f125-480c-8a93-59018d7247c6">
+
 
 ---
 
