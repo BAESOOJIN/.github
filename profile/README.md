@@ -1,16 +1,11 @@
 ### 환경을 위한 행동, 모두가 참여하는 서비스 (PICKTRE, Pick Trash)
 
-![react-version](https://img.shields.io/badge/react-18.2.0-61DAFB?logo=react)
-![vite-version](https://img.shields.io/badge/vite-4.4.9-646CFF?logo=vite)
-![google-maps-version](https://img.shields.io/badge/google-2.19.2-4285F4?logo=googlemaps)
-![tensorflowjs-version](https://img.shields.io/badge/tfjs-4.10.0-FF6F00?logo=tensorflow)
-![framer-motion-version](https://img.shields.io/badge/framer-10.16.1-0055FF?logo=framer)
-[![CodeFactor](https://www.codefactor.io/repository/github/picktre/picktre_frontend/badge)](https://www.codefactor.io/repository/github/picktre/picktre_frontend)
-![tensorflow-version](https://img.shields.io/badge/tensorflow-2.9.1-FF6F00?logo=tensorflow)
-![python-version](https://img.shields.io/badge/python-3.10.9-3776AB?logo=python)
-[![license](https://img.shields.io/badge/License-Apache2.0-D22128)](https://github.com/PICKTRE/PICKTRE_frontend/blob/main/LICENSE)
-[![license](https://img.shields.io/badge/License-GPL-7F5AB6)](https://github.com/PICKTRE/PICKTRE_ai/blob/main/LICENSE)
+<div align="center">
 
+![KakaoTalk_20230905_125252478](https://github.com/PICKTRE/PICKTRE_frontend/assets/48755156/77515b2f-adfb-4058-be52-207881d5483b)
+ 
+    
+</div>
 
 
 ---
@@ -24,46 +19,55 @@
 이러한 배경에서 PICKTRE는 쓰레기를 적절하게 처리하고, 시민들의 쓰레기 버리기 습관을 개선하여 환경보호와 재활용 문화를 확산 시키는데 목적을 두고 있습니다. 또한, 사용자들이 쓰레기를 버릴 때 보상을 제공하여 쓰레기 문제에 대한 인식과 참여 향상을 목표로 합니다.
 
 ---
+
+## 시연 영상
+
+<div align="center">
+ 
+  [![Video Label](http://img.youtube.com/vi/6T34HNa5KHw/0.jpg)](https://www.youtube.com/embed/6T34HNa5KHw?autoplay=1)
+</div>
+
+---
+
 ### 서비스 아키텍처
 
 
 
 ---
 
-### 적용 기술
+### 적용 기술 스택
 ---
-- 핵심 기술
-    - (설명추가)
+#### Frontend
+![javascript](https://img.shields.io/badge/javascript-ES13-F7DF1E?logo=javascript)
+![react-version](https://img.shields.io/badge/react-18.2.0-61DAFB?logo=react)
+![vite-version](https://img.shields.io/badge/vite-4.4.9-646CFF?logo=vite)
+![google-maps-version](https://img.shields.io/badge/google-2.19.2-4285F4?logo=googlemaps)
+![tensorflowjs-version](https://img.shields.io/badge/tfjs-4.10.0-FF6F00?logo=tensorflow)
+![framer-motion-version](https://img.shields.io/badge/framer-10.16.1-0055FF?logo=framer)
+![axios](https://img.shields.io/badge/axios-1.5.0-5A29E4?logo=axios)
+![zxing](https://img.shields.io/badge/zxing-0.20.0-181717?logo=zxing)
+[![CodeFactor](https://www.codefactor.io/repository/github/picktre/picktre_frontend/badge)](https://www.codefactor.io/repository/github/picktre/picktre_frontend)
+[![license](https://img.shields.io/badge/License-MIT_License-brightgreen)](https://github.com/PICKTRE/PICKTRE_frontend/blob/main/LICENSE)
 
-### 프로젝트 시작 (로컬)
 
-1. 프로젝트를 clone 합니다.
+#### Backend
 
-```jsx
-git clone https://github.com/PICKTRE/PICKTRE_frontend.git
-```
+![SpringBoot](https://img.shields.io/badge/SpringBoot-3.1.3-6DB33F?logo=springboot)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-2.6.3-6DB33F?logo=springsecurity)
+![Naver Cloud Platform](https://img.shields.io/badge/NaverCloudPlatform--03C75A?logo=naver)
+![Mysql](https://img.shields.io/badge/MySQL-8.0.34-4479A1?logo=MySQL)
+![amazons3](https://img.shields.io/badge/amazons3--569A31?logo=amazons3)
+![amazonec2](https://img.shields.io/badge/amazonec2--FF9900?logo=amazonec2)
+![letsencrypt](https://img.shields.io/badge/letsencrypt--003A70?logo=letsencrypt)
+![OAuth](https://img.shields.io/badge/OAuth_Google_Login-2.0-4285F4?logo=google)
+[![license](https://img.shields.io/badge/License-Apache2.0-D22128)](https://github.com/PICKTRE/PICKTRE_frontend/blob/main/LICENSE)
+  
+#### AI
+  
+![tensorflow-version](https://img.shields.io/badge/tensorflow-2.9.1-FF6F00?logo=tensorflow)
+![python-version](https://img.shields.io/badge/python-3.10.9-3776AB?logo=python)
+[![license](https://img.shields.io/badge/License-Apache2.0-D22128)](https://github.com/PICKTRE/PICKTRE_frontend/blob/main/LICENSE)
 
-2. clone이 완료되었다면, 다음 명령어로 npm library들을 설치합니다.
-
-```jsx
-npm i
-```
-
-1. 프로젝트를 실행합니다.
-
-```jsx
-npm run dev
-```
-
----
-
-### 프로젝트 시작
-
-1. PICKTRE에 접속합니다.
-
-```
-https://picktre.netlify.app
-```
 
 ---
 ### 팀원
