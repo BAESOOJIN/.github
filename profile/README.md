@@ -23,9 +23,9 @@
 ## 시연 영상
 
 <div align="center">
- 
-  [![Video Label](http://img.youtube.com/vi/6T34HNa5KHw/0.jpg)](https://www.youtube.com/embed/6T34HNa5KHw?autoplay=1)
+  <img width="320px" src="./src/assets/picktre_demonstration.gif" />
 </div>
+
 
 ---
 
