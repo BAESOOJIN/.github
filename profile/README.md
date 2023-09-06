@@ -39,7 +39,6 @@
 ---
 
 ### 적용 기술 스택
----
 #### Frontend
 ![javascript](https://img.shields.io/badge/javascript-ES13-F7DF1E?logo=javascript)
 ![react-version](https://img.shields.io/badge/react-18.2.0-61DAFB?logo=react)
@@ -69,7 +68,8 @@
   
 ![tensorflow-version](https://img.shields.io/badge/tensorflow-2.9.1-FF6F00?logo=tensorflow)
 ![python-version](https://img.shields.io/badge/python-3.10.9-3776AB?logo=python)
-[![license](https://img.shields.io/badge/License-Apache2.0-D22128)](https://github.com/PICKTRE/PICKTRE_frontend/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/License-GPL-7F5AB6)](https://github.com/PICKTRE/PICKTRE_ai/blob/main/LICENSE)
+
 
 
 ---
